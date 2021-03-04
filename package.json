@@ -29,6 +29,6 @@
     "tmp": "0.2.1"
   },
   "devDependencies": {
-    "chai": "4.2.0"
+    "chai": "4.3.3"
   }
 }
